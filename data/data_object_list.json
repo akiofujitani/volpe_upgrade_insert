@@ -1,0 +1,6 @@
+{
+    "config": {
+        "file_path": "./data/config.json",
+        "class_object": "Configuration"
+    }
+}
